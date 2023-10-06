@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DojoMaps</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoianVhbi1lcyIsImEiOiJjbG5kdDEwNmkwNzNjMnFvNGZqN2loMjc3In0.6OqRRqTTfgXO3dhf5cSkaw</string>
+</resources>
